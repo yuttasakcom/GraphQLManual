@@ -7,6 +7,14 @@
 ## How do we use GraphQL?
 
 ## Query Fragments
+```
+{
+  songs{
+    id
+    title
+  }
+}
+```
 
 ```
 {
